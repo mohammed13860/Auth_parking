@@ -1,0 +1,18 @@
+[33mcommit dcabff3acbd79d65d055cc1b7e029739f7a94bf3[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: 6a89f0b 3ef48ce
+Author: mohammed13860 <mohamad.djeghaba13@gmail.com>
+Date:   Mon Dec 2 21:13:54 2024 +0100
+
+    Resolved merge conflicts and completed merge
+
+[33mcommit 3ef48ce0999f0868559112eeff7de47cc7bfb437[m
+Author: mohammed13860 <113539053+mohammed13860@users.noreply.github.com>
+Date:   Mon Dec 2 20:59:30 2024 +0100
+
+    Initial commit
+
+[33mcommit 6a89f0b1de796b276f5bb48ba5e95512ed594cce[m
+Author: mohammed13860 <mohamad.djeghaba13@gmail.com>
+Date:   Mon Dec 2 20:57:59 2024 +0100
+
+    parking
