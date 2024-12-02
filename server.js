@@ -6,10 +6,10 @@ const mongoose = require("mongoose");
 const cors = require("cors");
 const path = require("path");
 const corsOptions = require("./config/corsOptions");
-const cookieParser = require("cookie-Parser"); //middleware
+const cookieparser = require("cookie-parser"); //middleware
 const app = express();
 app.use(cors(corsOptions));
-app.use(cookieParser());
+app.use(cookieparser());
 app.use(express.json());
 const authRoutes = require('./routes/authRoutes');
 const users = require('./routes/userRoutes');
